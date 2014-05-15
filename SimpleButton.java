@@ -17,7 +17,7 @@ import android.graphics.PorterDuff;
  * SimpleButton
  * ------------
  * 
- * 
+ * a conditional-driven (non event-driven) button class.
  *  
  */
 
