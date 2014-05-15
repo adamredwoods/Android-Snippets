@@ -1,4 +1,4 @@
-package com.twopisoftware.yukonsolitaire;
+package com.twopisoftware.snippets;
 
 import java.lang.reflect.Field;
 import java.nio.ByteBuffer;

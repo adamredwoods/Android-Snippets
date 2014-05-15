@@ -1,4 +1,4 @@
-package com.twopisoftware.yukonsolitaire;
+package com.twopisoftware.snippets;
 
 import java.util.ArrayList;
 

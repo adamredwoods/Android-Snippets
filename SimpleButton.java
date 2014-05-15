@@ -1,4 +1,4 @@
-package com.twopisoftware.yukonsolitaire;
+package com.twopisoftware.snippets;
 
 import java.util.LinkedList;
 
@@ -8,6 +8,18 @@ import android.graphics.Matrix;
 import android.graphics.Paint;
 import android.graphics.PorterDuffXfermode;
 import android.graphics.PorterDuff;
+
+
+/************
+ * 
+ * @author Adam Piette
+ * 
+ * SimpleButton
+ * ------------
+ * 
+ * 
+ *  
+ */
 
 public class SimpleButton {
 	//private static LinkedList<SimpleButton> blist = new LinkedList<SimpleButton>();
