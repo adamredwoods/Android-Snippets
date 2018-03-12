@@ -12,8 +12,8 @@ import android.util.Log;
  * 
  * 
  * Usage:
- * UpdateAllTweens() must be called per update tick
- * use .x and .y variables from the Tween instance
+ * UpdateAllTweens() must be called per update tick.
+ * Use .x and .y members from the Tween instance to set an entity's position.
  *
  * Example:
  *  Tween mytween = new Tween(Tween.EASEOUT, TIME, card.x, card.y, px, py, Tween.ONCE)
